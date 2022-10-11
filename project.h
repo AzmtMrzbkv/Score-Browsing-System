@@ -20,7 +20,7 @@ private:
 	Info info;
 	int studentnum = 11;
 	const string adminid = "admin";
-	const string adminpw = "unisteee";
+	const string adminpw = "admin";
 
 public:
 	// read input file. Each data is saved in structure Info.

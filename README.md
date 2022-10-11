@@ -12,6 +12,7 @@ Simple Score browsing system implemented on C++
 #### Login
 * Allows students to sign in to the system if the information entered by student and information stored in system are identical.
 * In the case of three consecutive unsuccsessful login attempts, the student will be blocked from further login attempts until admin will set a new passport.
+* To login as an adminitrator, enter name: admin and password: admin.
 
 #### Student Info
 * Returns all information of student stored in the system such as name and grades.
