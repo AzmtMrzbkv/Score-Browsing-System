@@ -1,5 +1,7 @@
 # Score-Browsing-System
-Simple Score browsing system implemented on C++.
+Simple Score browsing system implemented on C++
+
+<!-- image here -->
 
 ## OVERVIEW
 
@@ -20,7 +22,7 @@ Simple Score browsing system implemented on C++.
 #### Grade Statistic
 * Returns the average and median scores of all students for all HWs and projects.
 
-#### Show all grades
+#### All Data
 * Returns the list of all students along with their grades
 * Can be only used by admin
 
@@ -31,7 +33,11 @@ Simple Score browsing system implemented on C++.
 * Can be only used by admin
 
 #### Add Student
+* Allows to add a new studetn to the system. The input for this command must be student's name, password, and grades.
+* Can be only used by admin
 
 #### Logout
+* Logs out of the user account. 
 
 #### Terminate
+* Terminates the system
