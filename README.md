@@ -1,11 +1,11 @@
 # Score-Browsing-System
 Simple Score browsing system implemented on C++
 
-<!-- image here -->
-
 ## OVERVIEW
 
 * The program will read the content of file "input.txt" that contains the grades of students and enable students to login and look their grades and grade statistics. It also has admin mode, when enabled, allows to modify the grades and other information of all students.
+
+![demo](https://user-images.githubusercontent.com/62408255/195108942-d4d2a92c-b84a-413a-9f09-6f2d542b30ea.png)
 
 ### Description of commands
 
